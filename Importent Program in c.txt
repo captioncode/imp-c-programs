@@ -1,0 +1,25 @@
+1) Fibonacci Series.
+2) Prime number.
+3) Palindrome number.
+4) Factorial.
+5) Armstrong number.
+6) Sum of Digits.
+7) Reverse Number.
+8) Swap two numbers without using third variable.
+9) Print "hello" without using semicolon
+10) Assembly Program in C
+11) C Program without main() function
+12) Matrix Multiplication
+13) Decimal to Binary
+14) Alphabet Triangle
+15) Number Triangle
+16) Fibonacci Triangle
+17) Number in Characters
+18) Largest of three numbers
+19) Leap Year
+20) Windows Shutdown
+21) Current Date and Time
+22) List Files in Directory
+23) Copy File to Another File
+24) Size of File
+25) Largest and Smallest Element in Array
